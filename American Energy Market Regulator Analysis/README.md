@@ -6,4 +6,4 @@ Exploratory Data Analysis completed in SQL to drill into the following two areas
 - Part II. Energy Losses & Market Reliability
 
 Presentation of findings completed in Tableau. 
-- [American Energy market Regulator Analysis Presentation](https://public.tableau.com/app/profile/amy.leaver/viz/SQLCaseStudy_16982618956930/Story1)
+- [American Energy Market Regulator Analysis Presentation](https://public.tableau.com/app/profile/amy.leaver/viz/SQLCaseStudy_16982618956930/Story1)
