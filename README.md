@@ -1,9 +1,12 @@
-## Data Analyst Portfolio
+Hi, I’m Amy
 
-Welcome to my Data Analyst Portfolio!
+I’m a Data Insights Consultant based in San Francisco with experience designing scalable data pipelines, transforming complex datasets into actionable insights, and building interactive dashboards for technical and executive audiences.
 
-I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, R, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as statistical analysis, dashboard building, report writing, data mining, data merging, and critical thinking.
+My recent work includes:
+- Building Databricks pipelines using PySpark and SQL (Bronze–Silver–Gold architecture)
+- Developing Power BI dashboards for KPI standardization and operational analytics
+- Creating data quality and governance frameworks for reliable decision-making
 
-In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links of the dashboards and reports I have created using various tools such as Tableau and Excel. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
+Tools I use: Python (PySpark, pandas), SQL, R, Power BI, Databricks, Azure, Tableau, Excel
 
-I have also included my work in programming languages such as Python, SQL and R. These projects showcase my ability to extract valuable insights from large and complex data sets, and to combine data from multiple sources to create a comprehensive view of the data.
+I’m passionate about connecting engineering with analytics to drive meaningful impact.
